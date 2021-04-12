@@ -1,0 +1,184 @@
+.main
+{
+	padding: 20px;
+}
+.Twenty-one
+{
+	padding: 20px;
+	display: flex;
+}
+.two
+{
+	padding: 20px;
+	display: flex;
+}
+.twenty-three
+{
+	border-radius: 30%;
+	padding: 20px;
+	display: flex;
+}
+.Four
+{
+	padding: 20px;
+	display: flex;
+	border-radius: 30%;
+
+}
+.Five
+{
+	padding: 20px;
+	display: flex;
+	border-radius: 30%;
+
+}
+.Twenty-tw
+{
+	padding: 20px;
+	display: flex;
+}
+.Seven
+{
+	padding: 20px;
+	display: flex;
+}
+.Eight
+{
+	padding: 20px;
+	display: flex;
+}
+.Nine
+{
+	padding: 20px;
+	display: flex;
+}
+.Ten
+{
+	padding: 20px;
+	display: flex;
+}
+.Eleven
+{
+	padding: 20px;
+	display: flex;
+}
+.twelve
+{
+	padding: 20px;
+	display: flex;
+}
+.Thirteen
+{
+	padding: 20px;
+	display: flex;
+}
+.Fourteen
+{
+	padding: 20px;
+	display: flex;
+}
+.Fifteen
+{
+	padding: 20px;
+	display: flex;
+}
+.Sixteen
+{
+	padding: 20px;
+	display: flex;
+}
+.Seventeen
+{
+	padding: 20px;
+	display: flex;
+}
+.Eighteen
+{
+	padding: 20px;
+	display: flex;
+}
+.Ninteen
+{
+	padding: 20px;
+	display: flex;
+}
+ul
+{
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 0px;
+	overflow: hidden;
+	background-color: #2F4F4F;
+}
+li
+{
+	float: right;
+}
+li a
+{
+	display: inline;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.small
+{
+	/*position: absolute;*/
+	padding-top: 100px;
+
+}
+.logo
+{
+		display: flex;
+		padding-bottom: 20px;
+		width:100%;
+		/*position: fixed;*/
+
+}
+.yay
+{
+	padding: 20px;
+	text-align: center;
+	padding-left: 50px;
+	background-color: #2F4F4F;
+	width: 100%;
+	height: 310px
+}
+.a
+{
+	font-weight: bold;
+	font-family: ;
+	color: #DAA520;
+	font-size: 40px;
+}
+.ex3
+{
+	font-weight: bold;
+	font-size: 20px;
+	color: #DAA520;
+}
+.explanation
+{
+	border: 2px solid #2F4F4F;
+	border-radius: 30px;
+	padding: 20px;
+	background-color: #2F4F4F;
+	color: #DAA520 ;
+}
+.explanation2
+{
+	border: 2px solid #DAA520;
+	border-radius: 30px;
+	padding: 20px;
+	background-color: #DAA520;
+	color: #2F4F4F ;
+}
+.image
+{
+	border-radius: 30px;
+}
+img
+{
+	border-radius: 0px;
+}

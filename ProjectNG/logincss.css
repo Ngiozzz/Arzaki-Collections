@@ -1,0 +1,89 @@
+body
+{
+	font-size: 120%;	
+}
+h2
+{
+	width: 50%;
+	height:30%;
+	margin: 50px auto 0px;
+	color: #DAA520;
+	background: #2F4F4F;
+	text-align: center;
+	border: 1px solid #2F4F4F;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+
+}
+form
+{
+	width: 50%;
+	height: 800px%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: #2F4F4F;
+	border-radius: 0px 0px 10px 10px;
+}
+.inputt
+{
+	margin: 10px 0px 10px 0px;
+}
+
+.inputt label
+{
+	display: block;
+	text-align: left;
+	margin: 3px;
+	color: #DAA520;
+}
+.inputt input
+{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.logo
+{
+	position: relative;
+	display: flex;
+	
+}
+.yay
+{
+	padding: 20px;
+	text-align: center;
+	padding-left: 50px;
+	background-color: #2F4F4F;
+	width: 100%; 
+	height: 310px;
+}
+.a
+{
+	font-weight: bold;
+	font-family: ;
+	color: #DAA520;
+	font-size: 40px;
+}
+.ex3
+{
+	font-weight: bold;
+	font-size: 20px;
+	color: #DAA520;
+}
+.btn
+{
+	background-color: goldenrod;
+	color:#2F4F4F; 
+	border: none;
+	padding: 10px;
+	margin-left: 250px;
+	text-align: center;
+	font-size: 16px;
+	width: 200px;
+  
+}
